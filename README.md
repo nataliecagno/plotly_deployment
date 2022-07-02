@@ -9,7 +9,7 @@ Purpose of this project was to build an interactive dashboard to visualize the r
 ![belly_bar](images/belly_bar.PNG)
 
 * Bubble chart to show the samples concentrations and biodiversity of bacteria
-!{belly_bubble](images/belly_bubble.PNG)
+![belly_bubble](images/belly_bubble.PNG)
 
 * Gauge displays the frequency of belly button washing weekly
 ![belly_frequency](images/belly_frequency.PNG)
