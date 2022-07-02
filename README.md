@@ -17,4 +17,4 @@ Purpose of this project was to build an interactive dashboard to visualize the r
 
 
 ## link to webpage
-The interactive webpage is accessible at https://nataliecagno.github.io/belly_button
+The interactive webpage is accessible at https://nataliecagno.github.io/plotly_deployment/
